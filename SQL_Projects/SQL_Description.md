@@ -6,7 +6,7 @@
 
 **Conclusion:** Based on the analysis, this reveals the global employment landscape from 2020-2024. Analyzed 616,186 layoffs across industries, with the United States experiencing the most significant impact at 414,013 employees. 2023 emerged as the peak year of workforce reduction, highlighting the ongoing economic transformation in tech and consumer sectors. Tech giants like Amazon, Meta, and Tesla led major workforce restructuring efforts.
 
-[Employee_Layoff](https://github.com/anujeevan-raju/Projects/blob/main/SQL_Projects/1.%20Employee_Layoffs_2024.sql)
+[Employee_Layoff_Code](https://github.com/anujeevan-raju/Projects/blob/main/SQL_Projects/1.%20Employee_Layoffs_2024.sql)
 
 
 
@@ -18,7 +18,7 @@
 
 **Conclusion:** From the anlysis i can say that, USA has the highest number of invoices at 131, followed by Canada with 76 and Brazil with 61. Prague generates the most revenue, making it the ideal location for a promotional music festival. The top customer, František Wichterlová, has spent $145K. Mohan Madan is identified as the senior-most employee. Rock music listeners have been analyzed for targeted promotions, and the top 10 Rock artists with the most tracks have been listed for potential collaborations.
 
-[Music_Store](https://github.com/anujeevan-raju/Projects/blob/main/SQL_Projects/2.%20Music_Store.sql)
+[Music_Store_Code](https://github.com/anujeevan-raju/Projects/blob/main/SQL_Projects/2.%20Music_Store.sql)
 
 
 ## Pizza_Store
@@ -27,4 +27,4 @@
 
 **Skills and Technology:** ETL process, joins, CTE's, Windows Function, Aggregate functions, Subqueries SQL Server and SSIS.
 
-[Pizza_Store](https://github.com/anujeevan-raju/Projects/blob/main/SQL_Projects/3.%20Pizza_Store(Study%20Project).sql)
+[Pizza_Store_Code](https://github.com/anujeevan-raju/Projects/blob/main/SQL_Projects/3.%20Pizza_Store(Study%20Project).sql)
