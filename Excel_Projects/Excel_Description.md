@@ -8,7 +8,7 @@
 
 ![Coffee Beans Sales](https://github.com/user-attachments/assets/6f2564d2-b40b-4227-a436-2bfd0d7c7f59)
 
-[Code](https://github.com/anujeevan-raju/Projects/blob/main/Excel_Projects/1.%20Coffee%20Beans%20Data.xlsx)
+[Coffee_Beans_Sales_Code](https://github.com/anujeevan-raju/Projects/blob/main/Excel_Projects/1.%20Coffee%20Beans%20Data.xlsx)
 
 ## FNF Store Sales
 
@@ -20,4 +20,4 @@
 
 ![FNP SALES](https://github.com/user-attachments/assets/7dbf29e3-09f1-4b69-9e6c-814fd637c390)
 
-[Code](https://github.com/anujeevan-raju/Projects/blob/main/Excel_Projects/2.%20FNF%20Store%20Sales.xlsx)
+[FNF Store_Sales_Code](https://github.com/anujeevan-raju/Projects/blob/main/Excel_Projects/2.%20FNF%20Store%20Sales.xlsx)
