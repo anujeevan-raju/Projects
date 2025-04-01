@@ -9,7 +9,7 @@
 ![Churn Analysis(PBI)](https://github.com/user-attachments/assets/fc879084-58c3-43c9-92cc-d3420d990e22)
 
 
-[Code](https://github.com/anujeevan-raju/Projects/blob/main/Power%20BI_Projects/1.%20Customer_Chrun_Viz.pbix)
+[Customer_Chrun_Code](https://github.com/anujeevan-raju/Projects/blob/main/Power%20BI_Projects/1.%20Customer_Chrun_Viz.pbix)
 
 
 
@@ -25,4 +25,4 @@
 ![HR_Data_Analysis (PBI)](https://github.com/user-attachments/assets/61fb7b05-4504-4aa9-89fc-eebfa5e0f78b)
 
 
-[Code](https://github.com/anujeevan-raju/Projects/blob/main/Power%20BI_Projects/2.%20HR_Data_Viz.pbix)
+[HR_Data_Code](https://github.com/anujeevan-raju/Projects/blob/main/Power%20BI_Projects/2.%20HR_Data_Viz.pbix)
