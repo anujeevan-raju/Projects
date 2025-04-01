@@ -17,7 +17,7 @@
 
 **Conclusion:** The YouTube data analysis revealed that Simplilearn has uploaded the highest number of videos, totaling 8,965. Khan Academy stands out with the most total views, reaching 9,334,072, while freeCodeCamp.org leads in subscriber count with 10,500,000 subscribers. The analysis included multiple educational and tech-focused YouTube channels such as TechTFQ, Ken Jee, Data School, 365 Data Science, Alex the Analyst, and Luke Barousse. The data was collected using the YouTube Data API, focusing on channel statistics and video details for deeper insights.
 
-[Youtube Data Scraping](https://github.com/anujeevan-raju/Projects/blob/main/Python_Projects/2.%20Youtube_Data_Scraping.ipynb)
+[Youtube_Data_Scraping_Code](https://github.com/anujeevan-raju/Projects/blob/main/Python_Projects/2.%20Youtube_Data_Scraping.ipynb)
 
 
 ## Marvel Heros
@@ -26,7 +26,7 @@
 
 **Skills and Tools:** Pandas, Numpy, Matplotlib, Visualization, Jupyter Notebook.
 
-[Marvel_Heros](https://github.com/anujeevan-raju/Projects/blob/main/Python_Projects/3.%20Marvel_Heros_(Study%20Project).ipynb)
+[Marvel_Heros_Code](https://github.com/anujeevan-raju/Projects/blob/main/Python_Projects/3.%20Marvel_Heros_(Study%20Project).ipynb)
 
 
  
